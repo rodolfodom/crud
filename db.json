@@ -1,0 +1,56 @@
+{
+  "perros": [
+    {
+      "id": 1,
+      "nombre": "Koda",
+      "raza": "pastor inglés"
+    },
+    {
+      "id": 2,
+      "nombre": "Lucas",
+      "raza": "Golden  retriever"
+    },
+    {
+      "id": 3,
+      "nombre": "Simón",
+      "raza": "Labrador"
+    },
+    {
+      "id": 4,
+      "nombre": "Loki",
+      "raza": "Samoyedo"
+    },
+    {
+      "id": 5,
+      "nombre": "querty",
+      "raza": "Alaska malamute"
+    }
+  ],
+  "gatos": [
+    {
+      "id": 1,
+      "nombre": "Nala",
+      "color": "blanco"
+    },
+    {
+      "id": 2,
+      "nombre": "Milka",
+      "color": "café"
+    },
+    {
+      "id": 3,
+      "nombre": "Sarabi",
+      "color": "Amarillo"
+    },
+    {
+      "id": 4,
+      "nombre": "Simba",
+      "color": "Rojo"
+    },
+    {
+      "id": 5,
+      "nombre": "Wiskas",
+      "color": "blanco"
+    }
+  ]
+}
