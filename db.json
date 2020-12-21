@@ -22,8 +22,13 @@
     },
     {
       "id": 5,
-      "nombre": "querty",
+      "nombre": "Querty",
       "raza": "Alaska malamute"
+    },
+    {
+      "nombre": "Lola",
+      "raza": "Dalmata",
+      "id": 6
     }
   ],
   "gatos": [
