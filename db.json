@@ -24,6 +24,11 @@
       "id": 5,
       "nombre": "querty",
       "raza": "Alaska malamute"
+    },
+    {
+      "nombre": "lasy",
+      "raza": "pastor escocés",
+      "id": 6
     }
   ],
   "gatos": [
