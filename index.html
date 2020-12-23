@@ -13,7 +13,7 @@
         <article>
             <h2 class="crud-title">Agregar perro</h2>
             <form class="crud-form">
-                <input type="text" name="nombre" placeholder="nombre" required>
+                <input type="text" name="nombre" placeholder="Nombre" required>
                 <br>
                 <input type="text" name="raza" placeholder="Raza" required>
                 <br>
@@ -30,14 +30,7 @@
                         <th>Acciones</th>
                     </tr>
                 </thead>
-                <tr>
-                    <td class="name"></td>
-                    <td class="race"></td>
-                    <td>
-                        <button class="edit">Editar</button>
-                        <button class="delete">Eliminar</button>
-                    </td>
-                </tr>
+                <tbody></tbody>
             </table>
         </article>
     </section>
@@ -51,6 +44,7 @@
             </td>
         </tr>
     </template>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="/main.js"></script>
 </body>
 

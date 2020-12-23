@@ -21,9 +21,14 @@
       "raza": "Samoyedo"
     },
     {
-      "id": 5,
-      "nombre": "querty",
-      "raza": "Alaska malamute"
+      "nombre": "Querty",
+      "raza": "Alaska malamute",
+      "id": 5
+    },
+    {
+      "nombre": "Lola",
+      "raza": "Labrador",
+      "id": 6
     }
   ],
   "gatos": [
